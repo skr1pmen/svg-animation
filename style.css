@@ -57,10 +57,10 @@ svg polygon{
         stroke-dashoffset: 0;
     }
     90%{
-        stroke-dashoffset: 500;
+        stroke-dashoffset: -500;
     }
     100%{
-        stroke-dashoffset: 500;
+        stroke-dashoffset: -500;
     }
 }
 
@@ -104,10 +104,10 @@ svg polygon{
         stroke-dashoffset: 0;
     }
     90%{
-        stroke-dashoffset: 686;
+        stroke-dashoffset: -686;
     }
     100%{
-        stroke-dashoffset: 686;
+        stroke-dashoffset: -686;
     }
 }
 
@@ -150,9 +150,9 @@ svg polygon{
         stroke-dashoffset: 0;
     }
     90%{
-        stroke-dashoffset: 214;
+        stroke-dashoffset: -214;
     }
     100%{
-        stroke-dashoffset: 214;
+        stroke-dashoffset: -214;
     }
 }
